@@ -1,6 +1,6 @@
 # Личный проект «Девайс»
 
-* Студент: [Олег Данков](https://up.htmlacademy.ru/htmlcss/25/user/959029).
+* Студент: [Константин Корнилов](https://up.htmlacademy.ru/htmlcss/25/user/959029).
 * Наставник: [Андрей Середкин](https://vk.com/htmlacademy).
 
 ---
